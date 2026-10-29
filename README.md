@@ -1,4 +1,4 @@
-# Waydroid-ATV-autoinstall
+# Waydroid-A17-autoinstall
 The Waydroid installation is too difficult? The built-in Android 13 version is too old? Here's the solution!
 
 ## Features

@@ -13,7 +13,7 @@ The program can install Waydroid (the main program) automatically and install Li
 1. Download the latest version from the Releases page
 2. Open a new terminal window
 3. Locate to the program's path
-4. run ./installWaydroidA17
+4. Run ./installWaydroidA17
 5. Follow the instructions
 
 ## Special thanks

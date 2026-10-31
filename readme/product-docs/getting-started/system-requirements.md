@@ -16,5 +16,6 @@ For hardware, you need
 
 For software, you need
 
-* System: Debian 13+ , Ubuntu 26.10+ or systems based on them
+* System: Debian-based systems like `Debian`, `Ubuntu`, `Kubuntu`, `elementaryOS`...
 * Wayland session enabled
+

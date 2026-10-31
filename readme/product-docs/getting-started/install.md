@@ -7,12 +7,12 @@ icon: desktop-arrow-down
 You will see 3 pages when you run the program.
 
 {% hint style="info" %}
-Please make sure your system is supported by this program
+Please make sure your system is supported by this program.
 {% endhint %}
 
 ### 1. System requirements
 
-You will see the system requirements when you start the program. To continue, type "y" and then press \<ENTER>. To leave, press Ctrl+C.
+You will see the system requirements when you start the program. To continue, type "y" and then press `enter`. To leave, press `Ctrl+C`.
 
 ### 2. Install Waydroid
 
@@ -38,9 +38,5 @@ It will run a command automatically to download the system and vendor image.
 
 ### 3. Boot the system
 
-The program will run the command "waydroid show-full-ui". You will see the GUI of Android. Please follow the instruction to finish the setup.
-
-
-
-THE DOCUMENT IS STILL WRITING.
+The program will run the command `waydroid show-full-ui`. You will see the GUI of Android. Please follow the instruction to finish the setup.
 

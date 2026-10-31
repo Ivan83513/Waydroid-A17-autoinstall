@@ -6,7 +6,7 @@ icon: arrow-rotate-right
 
 ### Uninstall Waydroid
 
-To uninstall Waydroid, you can download the `uninstallWaydroid` program from the [Releases](https://github.com/Ivan83513/Waydroid-A17-autoinstall/releases) page.
+To uninstall Waydroid, you can also use the `setup` program which can download from the [Releases](https://github.com/Ivan83513/Waydroid-A17-autoinstall/releases) page.
 
 {% hint style="danger" %}
 Uninstalling Waydroid will delete all the data stored in Android. Please backup the data if they are important.
@@ -17,7 +17,7 @@ To run the program, you just need to locate to the path of the program via your 
 Run the program by entering:
 
 ```bash
-./uninstallWaydroid
+./setup
 ```
 
 {% hint style="info" %}

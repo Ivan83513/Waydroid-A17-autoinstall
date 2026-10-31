@@ -1,5 +1,4 @@
 # Waydroid-A17-autoinstall
-<img width="1920" height="467" alt="676849398-06db0f0b-9bb1-4dd5-9486-20b87734e414" src="https://github.com/user-attachments/assets/511f879c-fea7-46d7-9c23-8e701a38f447" />
 The Waydroid installation is too difficult? The built-in Android 13 version is too old? Here's the solution!
 
 ## Features

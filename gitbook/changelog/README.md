@@ -25,6 +25,20 @@ layout:
 
 # Changelog
 
+### Update 2026.10.31
+
+Tags: `Feature updates` `Compatible updates`
+
+**Feature update**
+
+Compared the install and uninstall program into one single program.
+
+**Compatible update**
+
+Now support more system:
+
+* All debian-based system
+
 ### Update 2026.10.30
 
 Tags: `Bugs fixes` `Feature updates`

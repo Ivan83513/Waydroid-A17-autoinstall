@@ -1,0 +1,29 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Waydroid-A17-autoinstall
+  structure:
+    - type: section
+      key: section-2
+      title: README
+      path: readme
+      default: true
+      children:
+        - type: space
+          key: space-2
+          title: Product Docs
+          path: product-docs
+          default: true
+          content:
+            directory: ./readme/product-docs
+    - type: section
+      key: section-1
+      title: Changelog
+      path: changelog
+      children:
+        - type: space
+          key: space-1
+          title: Changelog
+          path: changelog
+          default: true
+          content:
+            directory: ./changelog

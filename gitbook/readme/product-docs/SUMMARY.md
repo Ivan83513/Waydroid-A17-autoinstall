@@ -18,3 +18,7 @@
 * [Android](how-it-works/android.md)
 * [Android 17](how-it-works/android-17.md)
 * [This program](how-it-works/this-program.md)
+
+## Special thanks
+
+* [Other repositories](special-thanks/other-repositories.md)

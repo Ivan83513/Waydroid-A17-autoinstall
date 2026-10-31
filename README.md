@@ -6,3 +6,7 @@ The program can install Waydroid (the main program) automatically and install Li
 
 ## Documentions
 To getting started, please [README](https://ivan83513.gitbook.io/waydroid-a17-autoinstall/) first.
+
+## Special thanks
+The [Waydroid](https://github.com/waydroid/waydroid/) repository - the main program
+The [Waydroid-ATV](https://github.com/waydroid-atv) repository - support for Android 17

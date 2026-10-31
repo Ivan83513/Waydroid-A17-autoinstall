@@ -11,6 +11,7 @@ To run the program, first open your file manager. Locate to the program you down
 In the terminal, run
 
 ```bash
+chmod +x ./setup
 ./setup
 ```
 
